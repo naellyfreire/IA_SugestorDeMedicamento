@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1hvW2RpIEYW028s15GxAcHeecDpc0-hq9
 
 Equipe:
-Josué Lamec Vasconcelos Silva - 473547,
-Ana Márcia de Lima - 497437,
-Antônia Naelly Freire de Lima - 493823.
+Antônia Naelly Freire de Lima,
+Ana Márcia de Lima,
+Josué Lamec Vasconcelos Silva.
 
 Escolha da base de dados:
 A base de dados escolhida é um conjunto de dados de revisão de medicamentos "Drug Review Dataset (Drugs.com)"  que apresenta avaliações de usuários sobre medicamentos, incluindo informações sobre o nome do medicamento, condição médica, avaliação do tratamento, comentários e outros atributos relacionados. O conjunto de dados fornece análises de pacientes sobre medicamentos específicos, juntamente com condições relacionadas e uma classificação de 10 estrelas, refletindo a satisfação geral do paciente. Os dados foram obtidos rastreando sites de revisão farmacêutica online.
